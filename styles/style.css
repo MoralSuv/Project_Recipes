@@ -1,0 +1,43 @@
+body {
+    background-color:antiquewhite;
+}
+*{
+    font-family: Helvetica,"Times New Roman", sans-serif;
+}
+/*define a general font family for the project*/
+h1 {
+    color:orange;
+    text-align: center;
+}
+/*use of color and alignment for the general sheet*/
+button {
+    font-size:16px;
+}
+button a {
+    color:orangered;
+    text-decoration: none;
+}
+/*increase the button size and change style*/
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+}
+/*define general properties for images*/
+.title {
+    text-align:left;
+    color:orangered;
+}
+/*define color and alignment for general titles*/
+ol, ul{
+   background-color: burlywood;
+   padding: 20px;
+}
+li{
+    background-color: blanchedalmond;
+    color:orangered;
+    padding:5px;
+    margin-left: 20px;
+}
+/*add a general style for all lists*/
